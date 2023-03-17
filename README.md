@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akinmirik
 - 👀 I’m interested in interested in IT, technology and electronics sectors, programming, hardware and
 - software products, artificial intelligence, machine learning, deep learning, data science, web 3.0 blockchain, etc.
-- 🌱 I’m currently learning Data Analysis with Python
+- 🌱 I’m currently learning C
 - 📫 You can reach me by my mail: mirikakin@gmail.com
 
 <!---
